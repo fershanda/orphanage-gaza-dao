@@ -1,0 +1,80 @@
+[
+	{
+		"inputs": [
+			{
+				"internalType": "string",
+				"name": "_threename",
+				"type": "string"
+			},
+			{
+				"internalType": "string",
+				"name": "_threejoin",
+				"type": "string"
+			},
+			{
+				"internalType": "string",
+				"name": "_threeaddresss",
+				"type": "string"
+			},
+			{
+				"internalType": "string",
+				"name": "_threefunction",
+				"type": "string"
+			}
+		],
+		"stateMutability": "nonpayable",
+		"type": "constructor"
+	},
+	{
+		"inputs": [],
+		"name": "threeaddresss",
+		"outputs": [
+			{
+				"internalType": "string",
+				"name": "",
+				"type": "string"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "threefunction",
+		"outputs": [
+			{
+				"internalType": "string",
+				"name": "",
+				"type": "string"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "threejoin",
+		"outputs": [
+			{
+				"internalType": "string",
+				"name": "",
+				"type": "string"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "threename",
+		"outputs": [
+			{
+				"internalType": "string",
+				"name": "",
+				"type": "string"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	}
+]
